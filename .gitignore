@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 #general files
-./main/include/secret.h
+main/include/secret.h
+main/include/secret.h
